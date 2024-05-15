@@ -1,2 +1,4 @@
-# favorite-desserts-rr
-Leaf Lab favorite desserts!
+# Leaf Lab Fav Desserts!
+
+List:
+- Rayna, chocolate ice cream
